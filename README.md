@@ -5,6 +5,6 @@ Implementation of Magic Square Algorithms
 
 The above class diagram should be self explanatory. 
 
-I have tried my best to ahere to Java Docs Commenting format.
+I have tried my best to adhere to Java Docs Commenting format.
 
 Link to Algorithms given in each of the three child classes.
